@@ -1,4 +1,4 @@
-## I'm Victor Sena!
+## Olá, eu sou Victor Sena!
 -💻 Eu sou estudante de Análise e Desenvolvimento de Sistemas(ADS). <a href="https://www.linkedin.com/in/victor-sena-b39283291/"> Linkedin: </a>
 
 -🏠 Moro em Fortaleza-CE.
