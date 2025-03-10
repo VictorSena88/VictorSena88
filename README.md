@@ -5,7 +5,6 @@
 
 -💻 Back-End:
 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 -👨‍💻 Front-end:
 
