@@ -17,18 +17,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🛠️ Back-end:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🐍 Outros:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📈 Em constante evolução:
-Atualmente iniciando os estudos em **Python** e sempre buscando aprender mais sobre desenvolvimento web, APIs REST, banco de dados e boas práticas de programação.
-
 ---
 
 ⭐ Caso queira acompanhar meus projetos e meu crescimento, fique à vontade para explorar meu repositório e me adicionar no LinkedIn!
