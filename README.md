@@ -6,8 +6,7 @@
 💡 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para criar soluções eficientes e funcionais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-sena-b39283291/)   
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
+---
 ---
 
 ## 🚀 Tecnologias que estou aprendendo e utilizando
